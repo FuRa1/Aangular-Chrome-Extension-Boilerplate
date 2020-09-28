@@ -1,1 +1,1 @@
-# Chrome-Extension-Boilerplate-with-Angular 10
+# Chrome Extension Boilerplate with Angular 10
