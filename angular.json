@@ -7,7 +7,7 @@
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
-          "style": "styl"
+          "style": "scss"
         }
       },
       "root": "",
@@ -135,7 +135,6 @@
       }
     }
   },
-  "defaultProject": "Chrome-Extension-Boilerplate-with-Angular",
   "cli": {
     "analytics": "eed1f381-c6aa-4062-86a8-bd1c64bcacf3"
   }
